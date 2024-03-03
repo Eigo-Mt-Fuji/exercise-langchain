@@ -1,0 +1,19 @@
+# https://github.com/langchain-ai/langchain?tab=readme-ov-file
+langchain ==0.1.10
+langchain-openai
+# https://github.com/langchain-ai/langchain/tree/master/libs/community
+langchain-community == 0.0.25
+# https://github.com/openai/openai-python
+openai ==1.13.3
+# https://github.com/explosion/spaCy
+spacy ==3.7.4
+# https://github.com/pymupdf/PyMuPDF/releases/tag/1.23.26
+pymupdf == 1.23.26
+# https://numpy.org/doc/stable/index.html
+numpy == 1.26
+# Chroma - the open-source embedding database. https://github.com/chroma-core/chroma/releases/tag/0.4.24
+chromadb == 0.4.24
+# https://github.com/Chainlit/chainlit/releases/tag/1.0.301
+chainlit == 1.0.301
+
+bs4
